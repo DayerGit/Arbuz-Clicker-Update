@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">ArbuZ clicker</string>
     <string name="start">Кликай, пока кликаешь</string>
+    <string name="store">Магазин</string>
+    <string name="storeName">Кликошоп</string>
+    <string name="balance">Ваш баланс </string>
+    <string name="clickPerSecounds">Количество кликов в секунду: </string>
+    <string name="buy">Увеличить КПС</string>
+    <string name="exchange_rate">Одно увеличение количества кликов в секунду стоит два накопленных клика*</string>
 </resources>
